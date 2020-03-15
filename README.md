@@ -1,1 +1,1 @@
-https://eddxdd.github.io/Number-Guesser/
+https://eddxdd.github.io/js-number-guesser/
